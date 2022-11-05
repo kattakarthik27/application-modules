@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Yeswanth",
+      "email": "yes@gmail.com",
+      "phone": "456765456",
+      "gender": "Male",
+      "age": "19",
+      "country": "Ind",
+      "state": "TS",
+      "city": "Hyd",
+      "pincode": "500037",
+      "password": "1234"
+    },
+    {
+      "username": "Gaurav",
+      "email": "malikgaurav080@gmail.com",
+      "phone": "+918791034774",
+      "age": "23",
+      "gender": "option1",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "city": "Bareilly",
+      "pincode": "243123",
+      "password": "1122",
+      "id": 2
+    },
+    {
+      "username": "karthik",
+      "email": "karthik@gmail.com",
+      "phone": "6444748",
+      "age": "2",
+      "gender": "option1",
+      "country": "India",
+      "state": "TS",
+      "city": "HYD",
+      "pincode": "52545",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "Bhavani",
+      "email": "bhavani@gmail.com",
+      "phone": "4568999",
+      "age": "22",
+      "gender": "option1",
+      "country": "India",
+      "state": "TS",
+      "city": "HYD",
+      "pincode": "52545",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "transaction": [
+    {
+      "id": 1,
+      "transactionid": "55447788",
+      "fromuser": "karthik",
+      "touser": "yeswanth",
+      "date": "11/10/2022",
+      "amount": "5000",
+      "time": "02.45 PM",
+      "status": "Success",
+      "email": "karthik@gmail.com"
+    },
+    {
+      "transactionid": "gss",
+      "fromuser": "ryjyr",
+      "touser": "ryjs",
+      "date": "sryj",
+      "amount": "yrsjr",
+      "time": "yrsjs",
+      "status": "yrj",
+      "email": "ygyjs",
+      "id": 2
+    },
+    {
+      "transactionid": "ggggggggggggg",
+      "fromuser": "ssssssssss",
+      "touser": "rrrrrrrr",
+      "date": "wwwwwwww",
+      "amount": "wyyyy",
+      "time": "rrrr",
+      "status": "yyyy",
+      "email": "rrr",
+      "id": 3
+    },
+    {
+      "transactionid": "657465",
+      "fromuser": "karthik",
+      "touser": "bhavani",
+      "date": "02112022",
+      "amount": "5000",
+      "time": "10:30",
+      "status": "success",
+      "email": "karthik@gmail.com",
+      "id": 4
+    }
+  ]
+}
